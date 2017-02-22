@@ -94,6 +94,5 @@ exports.registerRoutes = function() {
         });
     });
 
-
     return router;
 }
